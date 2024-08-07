@@ -1,21 +1,22 @@
+/* eslint-disable react/no-unescaped-entities */
 import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="bg-slate-100">
+    <div className="bg-slate-100 px-44 py-24">
       <div className="flex md:flex-row items-center">
         <div className=" box-border h-64 w-4/5 shadow-lg p-4 m-2 rounded-lg hover:scale-105 shadow-xl bg-white">
           <div className="box-content w-4/5 m-3 bg-white">
-            <p className="font-mono font-bold tracking-wide animate-pulse line-clamp-5 text-7xl  ">
-              Hallooo 👋
-              <br />{" "}
-            </p>
-            <p className="font-mono tracking tracking-wide line-clamp-5 text-5xl ">
-              Nama ku Alfian Hanif FY
-            </p>
-            <p className="font-mono tracking tracking-wide line-clamp-5 text-3xl">
+            <span className="font-mono font-bold tracking-wide animate-pulse line-clamp-5 text-7xl  ">
+              Hellooo 👋
+            </span>
+            <br />
+            <span className="font-mono tracking tracking-wide line-clamp-6 text-5xl ">
+              I'm Alfian Hanif FY
+            </span>
+            <span className="font-mono tracking tracking-wide line-clamp-5 text-3xl">
               Teknik Informatika - Ganesha
-            </p>
+            </span>
           </div>
         </div>
 
