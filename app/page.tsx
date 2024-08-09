@@ -6,7 +6,7 @@ import SkillGrid from "@/components/SkillGrid";
 
 export default function Home() {
   return (
-    <div className="p-10">
+    <div className="p-10 bg-slate-100">
       <MainGrid />
       <SkillGrid />
     </div>
