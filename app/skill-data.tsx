@@ -67,7 +67,7 @@ export const data = [
     headComp: "font-mono font-bold  md:text-2xl text-xl text-center",
     head: "",
     imageComp: "h-[99px] ml-1",
-    image: "/canva.png",
+    image: "/typescript.png",
   },
   {
     headComp: "font-mono font-bold  md:text-2xl text-xl text-center",
@@ -85,7 +85,7 @@ export const data = [
     headComp: "font-mono font-bold  md:text-2xl text-xl text-center",
     head: "",
     imageComp: "ml-1",
-    image: "/js.png",
+    image: "/tailwind.png",
   },
   {
     headComp: "font-mono font-bold  md:text-2xl text-xl text-center",
@@ -97,7 +97,7 @@ export const data = [
     headComp: "font-mono font-bold  md:text-2xl text-xl text-center",
     head: "",
     imageComp: "ml-1",
-    image: "/miro.png",
+    image: "/trpc.png",
   },
   {
     headComp: "font-mono font-bold  md:text-2xl text-xl text-center",
