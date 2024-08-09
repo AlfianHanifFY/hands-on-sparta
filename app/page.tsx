@@ -2,11 +2,13 @@
 import Image from "next/image";
 import CssGrid from "@/components/MainGrid";
 import MainGrid from "@/components/MainGrid";
+import SkillGrid from "@/components/SkillGrid";
 
 export default function Home() {
   return (
-    <div className="p-8">
+    <div className="p-10">
       <MainGrid />
+      <SkillGrid />
     </div>
   );
 }
