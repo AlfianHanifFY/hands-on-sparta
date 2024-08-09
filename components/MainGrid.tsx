@@ -3,7 +3,7 @@ import React from "react";
 
 const MainGrid = () => {
   const boxStyle =
-    "border-2 rounded-xl p-6 flex flex-col hover:scale-105 shadow-xl bg-white overflow-hidden ";
+    "border-2 rounded-xl p-6 flex flex-col hover:bg-amber-200 hover:scale-105 shadow-xl bg-white overflow-hidden  ";
 
   return (
     <div className="grid md:grid-cols-4 rows-[250px] gap-2 my-2">
