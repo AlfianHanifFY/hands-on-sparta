@@ -19,7 +19,7 @@ export const data = [
   },
   {
     headComp: "font-mono font-bold  md:text-2xl text-xl mb-4 mt-4",
-    head: "Interested in ...",
+    head: "📝 Interested in ...",
     p1Comp: "font-mono mb-2",
     p1: " - Software Engineer",
     p2Comp: "font-mono mb-2",
@@ -31,7 +31,7 @@ export const data = [
   },
   {
     headComp: "font-mono font-bold  md:text-2xl text-xl mb-4 mt-4",
-    head: "Talent ...",
+    head: "✨ Talent ...",
     p1Comp: "font-mono mb-2",
     p1: " - Easy to enjoy somethin",
     p2Comp: "font-mono mb-2",
@@ -44,7 +44,7 @@ export const data = [
   {
     headComp:
       "font-mono font-bold tracking-wide  line-clamp-5 md:text-6xl text-4xl mb-8",
-    head: "ABOUT ME !",
+    head: "🙋‍♂️ ABOUT ME !",
     p1Comp: "font-mono mb-8 md:text-3xl",
     p1: "Human who liked to explore New Technologies.",
     p2Comp: "font-mono mb-8 md:text-3xl",
@@ -56,7 +56,7 @@ export const data = [
   },
   {
     headComp: "font-mono font-bold  md:text-2xl text-xl mb-4 mt-4",
-    head: "Hobbies ...",
+    head: "🎮  Hobbies ... ",
     p1Comp: "font-mono mb-2",
     p1: " - Game ",
     p2Comp: "font-mono mb-2",
@@ -68,7 +68,7 @@ export const data = [
   },
   {
     headComp: "font-mono font-bold  md:text-2xl text-xl mb-4 mt-4",
-    head: "Achievement ...",
+    head: "🏆 Achievement ...",
     p1Comp: "font-mono mb-2",
     p1: " - Accepted In Teknik Informatika",
     p2Comp: "font-mono mb-2",
