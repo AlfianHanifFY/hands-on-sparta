@@ -1,2 +1,4 @@
 ## ABOUT
-Welcome to my portfolio website! This project was created to fulfill the Day 1 assignment for the SPARTA 23 program. This website made in around 1 week. It contains my personal information and project ! this portfolio-website adapted the design of bento box, it contains a lot of box which contain some information. This website maximalised grid function that provided by tailwind. I can easily add more box by only adding the data in ./data-<type>.tsx files. 
+Welcome to my portfolio website! This project was developed to fulfill the Day 1 assignment for the SPARTA 23 program and was created over the course of approximately one week. The website serves as a platform to showcase my personal information and projects.
+
+The design of this portfolio is inspired by the bento box layout, featuring multiple sections, each containing specific information. The site takes full advantage of Tailwind CSS's grid capabilities, allowing for easy expansion. Additional sections can be added simply by updating the data in the `./data-<type>.tsx` files.
