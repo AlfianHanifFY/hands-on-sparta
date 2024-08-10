@@ -47,6 +47,6 @@ During the development of this website, I encountered several challenges:
 ## Identity
 
 - **Name**: Alfian Hanif Fitria Yustanto
-- **ID Number**: 19623281
+- **NIM**: 19623281
 - **Clan**: X
 
