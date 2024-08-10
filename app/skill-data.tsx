@@ -1,6 +1,8 @@
 import { link } from "fs";
 import { Component } from "react";
 
+// data used in skill & experience section
+
 export const data = [
   {
     headComp: "font-mono font-bold  md:text-2xl text-xl mt-4",
