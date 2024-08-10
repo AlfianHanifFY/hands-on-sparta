@@ -9,3 +9,17 @@ This website was built using the following technology stack:
 - Next.js: A React framework for building fast and scalable web applications.
 - Tailwind CSS: A utility-first CSS framework for styling the user interface.
 - Vercel: A cloud platform for hosting and deploying web applications.
+
+## HOW TO RUN
+To run this program locally, follow these steps:
+
+- Clone the Repository:
+`git clone https://github.com/yourusername/your-repo.git`
+- Navigate to the Project Directory:
+`cd your-repo`
+-Install Dependencies:
+`npm install`
+-Start the Development Server:
+`npm run dev`
+-Access the Website:
+visit `http://localhost:3000` to view the website.
