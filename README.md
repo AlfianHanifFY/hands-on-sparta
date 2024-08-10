@@ -44,3 +44,9 @@ During the development of this website, I encountered several challenges:
 - Data Display Issues: Certain data was not displayed correctly, which required debugging and adjustments.
 - File Management: Organizing and managing files efficiently posed a challenge as the project grew.
 
+## Identity
+
+- **Name**: Alfian Hanif Fitria Yustanto
+- **ID Number**: 19623281
+- **Clan**: X
+
