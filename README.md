@@ -14,7 +14,7 @@ This website was built using the following technology stack:
 To run this program locally, follow these steps:
 
 - Clone the Repository:
-`git clone https://github.com/yourusername/your-repo.git`
+`git clone https://github.com/AlfianHanifFY/website-portfolio.git`
 - Navigate to the Project Directory:
 `cd your-repo`
 - Install Dependencies:
