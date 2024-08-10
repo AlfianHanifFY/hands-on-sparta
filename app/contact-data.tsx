@@ -1,5 +1,7 @@
 import { Component } from "react";
 
+// data used in contacr section
+
 export const data = [
   {
     headComp: "font-mono font-bold text-justify text-4xl",
