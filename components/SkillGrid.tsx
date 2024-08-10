@@ -18,7 +18,9 @@ const SkillGrid = () => {
               ? "md:grid-cols-2 md:col-span-2 "
               : ""
           } ${
-            i === 4 || i === 5 ? "md:grid-cols-2 md:col-span-4 " : ""
+            i === 4 || i === 5 || i === 6 || i === 7
+              ? "md:grid-cols-2 md:col-span-4 "
+              : ""
           } ${boxStyle}`}
         >
           <div>
