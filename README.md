@@ -32,7 +32,7 @@ https://website-portfolio-sage-nine.vercel.app/
 Bonus | Status |
 ---|---|
 Deployment | Done
-Responsive | Partial
+Responsive | -
 CMS | Partial
 Creativity | Done
 
