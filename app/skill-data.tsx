@@ -1,3 +1,4 @@
+import { link } from "fs";
 import { Component } from "react";
 
 export const data = [
@@ -56,6 +57,36 @@ export const data = [
     p3: " ",
     p4Comp: "",
     p4: " ",
+  },
+  {
+    headComp: "font-mono font-bold  md:text-2xl text-xl mt-4",
+    head: "Tales Of Nusantara ",
+    imageComp: "ml-8 h-[250px] w-[250px] ",
+    image: "/talesofnusantara.png",
+    link: "https://yotsuba4.itch.io/tales-of-nusantara",
+    p1Comp: "font-mono mb-4",
+    p1: "(programmer)",
+    p2Comp: "font-mono ",
+    p2: "- Godot",
+    p3Comp: "font-mono mb-4",
+    p3: "- GD Script",
+    p4Comp: "font-mono  mt-4",
+    p4: "“Explore your way through the world of the legends with perilous obstacles, unique enemies, and intriguing bosses.” (𝘱𝘭𝘢𝘺? 𝘤𝘭𝘪𝘤𝘬 𝘪𝘮𝘢𝘨𝘦 !)",
+  },
+  {
+    headComp: "font-mono font-bold  md:text-2xl text-xl mt-4",
+    head: "Breaking Bunny",
+    link: "https://yotsuba4.itch.io/breaking-bunny",
+    imageComp: "ml-8 h-[250px] w-[250px] ",
+    image: "/breakingbunny.jpg",
+    p1Comp: "font-mono mb-4",
+    p1: "(game designer)",
+    p2Comp: "font-mono ",
+    p2: "- microsoft word",
+    p3Comp: "font-mono mb-4",
+    p3: "- communication",
+    p4Comp: "font-mono  mt-4",
+    p4: "“A hyper-casual endless run game set in a bustling cityscape where mischievous bunnies are on the run from the law ” (𝘱𝘭𝘢𝘺? 𝘤𝘭𝘪𝘤𝘬 𝘪𝘮𝘢𝘨𝘦 !)",
   },
   {
     headComp: "font-mono font-bold  md:text-2xl text-xl text-center",
