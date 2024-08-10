@@ -17,9 +17,9 @@ To run this program locally, follow these steps:
 `git clone https://github.com/yourusername/your-repo.git`
 - Navigate to the Project Directory:
 `cd your-repo`
--Install Dependencies:
+- Install Dependencies:
 `npm install`
--Start the Development Server:
+- Start the Development Server:
 `npm run dev`
--Access the Website:
+- Access the Website:
 visit `http://localhost:3000` to view the website.
