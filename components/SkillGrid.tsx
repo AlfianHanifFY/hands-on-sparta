@@ -5,7 +5,7 @@ import Image from "next/image";
 
 const SkillGrid = () => {
   const boxStyle =
-    "border-2 rounded-xl p-6 flex flex-col hover:bg-amber-200 hover:scale-105 shadow-xl bg-white overflow-hidden ";
+    "border-2 rounded-xl p-6 flex flex-col hover:bg-amber-200 hover:scale-105  shadow-xl bg-white overflow-hidden ";
 
   return (
     <div className="grid md:grid-cols-8 rows-[100px] gap-2 my-2">
@@ -16,6 +16,8 @@ const SkillGrid = () => {
             i === 0 || i === 1 || i === 2 || i === 3
               ? "md:grid-cols-2 md:col-span-2 "
               : ""
+          } ${
+            i === 4 || i === 5 ? "md:grid-cols-2 md:col-span-4 " : ""
           } ${boxStyle}`}
         >
           <div>
@@ -30,13 +32,15 @@ const SkillGrid = () => {
               i === 0 || i === 1 || i === 2 || i === 3 ? "ml-10 mt-4 " : ""
             }object-center  `}
           >
-            <Image
-              src={item.image}
-              width={100}
-              height={100}
-              alt={"foto"}
-              className={`rounded-lg object-center ${item.imageComp}`}
-            />
+            <a href={item.link}>
+              <Image
+                src={item.image}
+                width={100}
+                height={100}
+                alt={"foto"}
+                className={`rounded-lg object-center ${item.imageComp}`}
+              />
+            </a>
           </div>
         </div>
       ))}
