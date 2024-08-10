@@ -31,10 +31,10 @@ https://website-portfolio-sage-nine.vercel.app/
 
 Bonus | Status |
 ---|---|
-Deployment | Selesai
-Responsive | Parsial
-CMS | Parsial
-Creativity | Selesai
+Deployment | Done
+Responsive | Partial
+CMS | Partial
+Creativity | Done
 
 ## STRUGGLE
 During the development of this website, I encountered several challenges:
