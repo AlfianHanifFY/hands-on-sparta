@@ -43,4 +43,4 @@ During the development of this website, I encountered several challenges:
 - Collapsing Boxes: Some boxes in the layout were collapsing, affecting the overall design and user experience.
 - Data Display Issues: Certain data was not displayed correctly, which required debugging and adjustments.
 - File Management: Organizing and managing files efficiently posed a challenge as the project grew.
-- Despite these challenges, I was able to overcome them through persistent problem-solving and research.
+
