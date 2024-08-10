@@ -26,3 +26,12 @@ visit `http://localhost:3000` to view the website.
 
 for easier step : 
 https://website-portfolio-sage-nine.vercel.app/
+
+## BONUS
+
+Bonus | Status |
+---|---|
+Deployment | Selesai
+Responsive | Parsial
+CMS | Parsial
+Creativity | Selesai
