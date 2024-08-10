@@ -21,7 +21,7 @@ export const data = [
   },
   {
     headComp: "font-mono font-bold  md:text-2xl text-xl mb-4 mt-4",
-    head: "📝 Interested ...",
+    head: "📝 Interest ...",
     p1Comp: "font-mono mb-2",
     p1: " - Software Engineer",
     p2Comp: "font-mono mb-2",
