@@ -1,5 +1,7 @@
 import { Component } from "react";
 
+// data used in main section
+
 export const data = [
   {
     headComp:
