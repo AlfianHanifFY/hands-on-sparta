@@ -7,6 +7,7 @@ const SkillGrid = () => {
   const boxStyle =
     "border-2 rounded-xl p-6 flex flex-col hover:bg-amber-200 hover:scale-105  shadow-xl bg-white overflow-hidden ";
 
+  // mapping each item in data to make a box
   return (
     <div className="grid md:grid-cols-8 rows-[100px] gap-2 my-2">
       {data.map((item, i) => (
