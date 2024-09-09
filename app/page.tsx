@@ -7,8 +7,8 @@ import ContactGrid from "@/components/ContactGrid";
 
 export default function Home() {
   return (
-    <div className="p-10 bg-slate-100">
-      <div className="scale-90">
+    <div className="px-24 pt-1 bg-slate-100">
+      <div className="scale-95">
         <MainGrid />
         <SkillGrid />
         <ContactGrid />
